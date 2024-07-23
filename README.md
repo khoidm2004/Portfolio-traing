@@ -1,6 +1,6 @@
 # Portfolio-training
 
-#Tech stack 💻
+# Tech stack 💻
 - HTML
 - CSS
 - Javascript
